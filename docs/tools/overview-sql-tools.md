@@ -23,7 +23,7 @@ ms.locfileid: "49643935"
 # <a name="sql-tools-and-utilities-for-sql-server-azure-sql-database-and-azure-sql-data-warehouse"></a>SQL 工具和实用程序的 SQL Server、 Azure SQL 数据库和 Azure SQL 数据仓库
 [!INCLUDE[appliesto-ss-asdb-asdw-pdw-md](../includes/appliesto-ss-asdb-asdw-pdw-md.md)]
 
-若要管理 （查询、 监视器等） 您需要使用工具的数据库。 您的数据库可以在云中，Windows，或在运行时[Linux](../linux/sql-server-linux-overview.md)，所需的工具不需要与数据库相同的平台上运行。 
+若要管理 （查询、 监视器等） 您需要使用工具的数据库。 虽然您的数据库可以在云中，Windows上或Linux上运行，但您的工具不需要在与数据库相同的平台上运行。
 
 有许多数据库工具，因此本文提供了说明和指针的一些可用工具的 SQL 数据库使用。 如果需要帮助确定哪种工具所需，请参阅[应使用哪种工具？](#which-tool-should-i-choose)。
 
