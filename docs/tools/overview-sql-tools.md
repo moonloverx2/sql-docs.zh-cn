@@ -58,11 +58,11 @@ ms.locfileid: "49643935"
 
 ## <a name="which-tool-should-i-choose"></a>应该选择哪种工具？
 
-- 若要管理 SQL Server 实例或数据库，在 Windows、 Linux 或 Mac 上的轻型编辑器吗？ 请选择 [[!INCLUDE[name-sos](../includes/name-sos.md)]](../sql-operations-studio/download.md)
-- 若要管理 SQL Server 实例或具有 GUI 的完全支持在 Windows 上的数据库吗？ 请选择 [SQL Server Management Studio (SSMS)](../ssms/download-sql-server-management-studio-ssms.md)
-- 执行你想要创建或维护数据库代码，包括编译时验证，重构和设计器支持在 Windows 上？ 请选择 [SQL Server Data Tools (SSDT)](../ssdt/download-sql-server-data-tools-ssdt.md)
-- 你想要使用命令行工具，它的 IntelliSense、 语法高-照明，查询 SQL Server 和的详细信息？ 选择[mssql cli](mssql-cli.md)
-- 你是否想要在 Windows、 Linux 或 Mac 上的轻型编辑器中编写 T-SQL 脚本？ 选择[Visual Studio Code](https://code.visualstudio.com/)和[mssql 扩展](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+- 您想在Windows，Linux或Mac上的轻量级编辑器中管理SQL Server实例或数据库吗？ 请选择 [[!INCLUDE[name-sos](../includes/name-sos.md)]](../sql-operations-studio/download.md)
+- 您想在Windows上使用完整的GUI支持管理SQL Server实例或数据库吗？ 请选择 [SQL Server Management Studio (SSMS)](../ssms/download-sql-server-management-studio-ssms.md)
+- 您想创建或维护数据库代码，包括Windows上的编译时验证，重构和设计器支持吗？ 请选择 [SQL Server Data Tools (SSDT)](../ssdt/download-sql-server-data-tools-ssdt.md)
+- 您想要使用具有IntelliSense，语法高亮等功能的命令行工具查询SQL Server吗？  选择[mssql cli](mssql-cli.md)
+- 您想在Windows，Linux或Mac上的轻量级编辑器中编写T-SQL脚本吗？ 选择[Visual Studio Code](https://code.visualstudio.com/)和[mssql 扩展](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
 
 
 
